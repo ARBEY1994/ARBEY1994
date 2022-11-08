@@ -21,7 +21,7 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 | Material UI
 | Cloudinary
 
-## 📫 my Links:
+## 📫  Links:
 
 
 | [Mi LinkedIn](https://www.linkedin.com/in/heiner-arevalo-757937246/) | 
