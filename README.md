@@ -9,6 +9,7 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 
 💻||  tengo conocimientos tanto en
  back-end como en front-end 
+	
 -JavaScript
 -SQL
 -Node.js
