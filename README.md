@@ -1,4 +1,4 @@
-Hi 👋, I'm Heiner Arbey
+## Hi 👋, I'm Heiner Arbey
 
 
 ¡un gusto saludarlos! 
@@ -7,7 +7,7 @@ soy tecnico en sistemas de informacion y full stack developer.
 
 Ademas de ser un apasionado por el desarrollo web, soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
 
-💻||  tengo conocimientos tanto en
+## 💻||  tengo conocimientos tanto en
  back-end como en front-end 
 	
 | JavaScript
@@ -21,7 +21,7 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 | Material UI
 | Cloudinary
 
-📫 my Links:
+## 📫 my Links:
 
 Mi LinkedIn:
 https://www.linkedin.com/in/heiner-arevalo-757937246/
