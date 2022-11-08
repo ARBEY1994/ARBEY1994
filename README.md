@@ -8,7 +8,7 @@ soy tecnico en sistemas de informacion y full stack developer.
 Ademas de ser un apasionado por el desarrollo web, soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
 
 ## 💻||  tengo conocimientos tanto en
- back-end como en front-end 
+ back-end y front-end 
 	
 | JavaScript
 | SQL
