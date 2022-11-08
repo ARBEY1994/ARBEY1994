@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Heiner Arbey
 
 
-¡un gusto saludarlos! 
+¡Un gusto saludarlos! 
 
 soy tecnico en sistemas de informacion y full stack developer.
 
