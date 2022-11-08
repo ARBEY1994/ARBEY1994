@@ -27,7 +27,7 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 | [Mi LinkedIn](https://www.linkedin.com/in/heiner-arevalo-757937246/) | 
 [Mi Facebook](https://www.facebook.com/bllazz.flowwgkuatro) | 
 Mi E-mail
-arbey221@gmail.com
+arbey221@gmail.com |
 Mi celular:
 +57 3209130823
 
