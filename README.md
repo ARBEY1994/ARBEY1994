@@ -1,10 +1,36 @@
 Hi 👋, I'm Heiner Arbey
 
-![hello wordl](https://user-images.githubusercontent.com/91568324/200653549-a02c8ffb-8d0c-42ba-9f09-033f72f4037e.jpg)
+
 ¡un gusto saludarlos! 
 
 soy tecnico en sistemas de informacion y full stack developer.
 
-Ademas de ser un apasionado por el desarrollo web, soy una persona muy comprometida con mi trabajo y muy disciplinad.
+Ademas de ser un apasionado por el desarrollo web, soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
+
+💻||  tengo conocimientos tanto en
+ back-end como en front-end 
+-JavaScript
+-SQL
+-Node.js
+-Express
+-React.js
+-Redux
+-HTML
+-CSS
+-Material UI
+-Cloudinary
+
+📫my Links:
+
+Mi LinkedIn:
+https://www.linkedin.com/in/heiner-arevalo-757937246/
+Mi Facebook:
+https://www.facebook.com/bllazz.flowwgkuatro
+Mi E-mail:
+arbey221@gmail.com
+Mi celular:
++57 3209130823
 
 
+-
+![Imagen2](https://user-images.githubusercontent.com/91568324/200653990-707da486-e702-498e-99d1-09f1eb929e2b.jpg)
