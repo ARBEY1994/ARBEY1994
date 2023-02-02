@@ -20,7 +20,7 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 | CSS
 | Material UI
 | Cloudinary
-
+| .NET
 ## 📫  Contact me:
 
 
