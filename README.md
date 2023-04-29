@@ -21,6 +21,8 @@ Ademas de ser un apasionado por el desarrollo web, soy una persona muy compromet
 | Material UI
 | Cloudinary
 | .NET
+| Firebase
+| Bootstrap
 ## 📫  Contact me:
 
 
@@ -32,5 +34,5 @@ arbey221@gmail.com |
 +57 3209130823
 
 
--
+
 
