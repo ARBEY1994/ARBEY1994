@@ -3,24 +3,24 @@
 
 ¡Un gusto saludarlos! 
 
-soy tecnico en sistemas de informacion y full stack developer.
+soy tecnico en sistemas de informacion y Front-end Software developer.
 
-Ademas de ser un apasionado por el desarrollo web, soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
+Ademas de ser un apasionado por el desarrollo , soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
 
 ## 💻||  Tengo conocimientos tanto en:
  back-end y front-end 
 	
 | JavaScript
-| SQL
+
 | Node.js
 | Express
 | React.js
 | Redux
 | HTML
 | CSS
-| Material UI
-| Cloudinary
-| .NET
+| Next
+| React Native
+| Tailwind
 | Firebase
 | Bootstrap
 ## 📫  Contact me:
