@@ -3,9 +3,9 @@
 
 ¡Un gusto saludarlos! 
 
-soy tecnico en sistemas de informacion y Front-end Software developer.
+soy Front-end Software developer.
 
-Ademas de ser un apasionado por el desarrollo , soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
+Ademas de vivir enamorado del desarrollo , soy una persona muy comprometida con mi trabajo y muy disciplinada, entre otras cosas me encanta trabajar en equipo y tengo iniciativa.
 
 ## 💻||  Tengo conocimientos en:
 
