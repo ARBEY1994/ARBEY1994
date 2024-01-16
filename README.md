@@ -3,7 +3,7 @@
 
 ¡Un gusto saludarlos! 
 
-soy Front-end Software developer.
+I am a software developer.
 
 
 
